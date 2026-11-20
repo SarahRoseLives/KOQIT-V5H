@@ -1,0 +1,20 @@
+KOQIT V5H research — notice and disclaimer
+
+This repository contains independent research notes and original tooling. It is
+not affiliated with, endorsed by, or sponsored by Koqit, NationalChip, C-Sky,
+T-Head, or any other vendor.
+
+Vendor firmware, bootloaders, vendor flashing tools, extracted vendor code, and
+full-flash dumps are NOT included in this repository. They remain the property
+of their respective owners and are not covered by the MIT license in LICENSE.
+Do not redistribute vendor binaries from this repository. Obtain official
+firmware from the vendor's public site; see docs/sources.md.
+
+Third-party projects linked from research/README.md and docs/sources.md are
+governed by their own licenses. Their names and trademarks belong to their
+owners.
+
+The information and tools are provided for interoperability research only, with
+no warranty. Flashing modified firmware can permanently brick a receiver.
+Reverse engineering and firmware modification may be restricted in some
+jurisdictions; you are responsible for how you use this material.

@@ -1,0 +1,17 @@
+AGENTS.md
+build/
+dist/
+target/
+out/
+node_modules/
+__pycache__/
+*.pyc
+
+# Local proprietary firmware, dumps, generated images, and vendored snapshots
+firmware/
+extracted/
+extracted-h265/
+backups/*.bin
+backups/*.rcv
+research/*
+!research/README.md
